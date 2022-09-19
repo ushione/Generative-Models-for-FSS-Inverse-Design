@@ -60,7 +60,7 @@ File `CalFourierLayerGrad.py` is the computation and verification of the gradien
 
 ## Generative models: An end-to-end paradigm
 
-Its implementation please refer to document `TrainMyCFourierGAN.py`. It is worth mentioning that this method is simpler because it does not require the assistance of Fourier layers and inverse networks.
+Its implementation please refer to document `TrainMyCFourierGAN.py`. It is worth mentioning that this method is simpler because it does not require the assistance of Fourier layers and inverse networks. More details can be found in our paper.
 
 ## Contact us
 
