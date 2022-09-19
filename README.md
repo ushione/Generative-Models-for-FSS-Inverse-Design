@@ -37,7 +37,7 @@ Fig. (b) is a three-dimensional diagram of an actual processed FSS structure, an
 
 Fig. (c) shows the measurement of the fabricated FSS in an anechoic chamber.
 
-Fig. (d) presents a comparison of the measured and simulated transmission coefficients when the incident wave angle is 0..
+Fig. (d) presents a comparison of the measured and simulated transmission coefficients when the incident wave angle is 0.
 
 ## Get Started
 Clone the project and install requirments.
