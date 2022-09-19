@@ -13,7 +13,7 @@ Our paper is under review by *IEEE Transactions on Antennas and Propagation*.
 - [Generative models: Collaborating with a well-trained inverse network](#generative-models-collaborating-with-a-well-trained-inverse-network)
 	- [Fourier layer](#fourier-layer)
 - [Generative models: An end-to-end paradigm](#generative-models-an-end-to-end-paradigm)
-- [Contact us](#contact us)
+- [Contact us](#contact-us)
 
 ## Background
 Non-unique mapping of data is a huge challenge when using traditional discriminative neural networks to reverse engineer FSS. Existing methods for improving discriminative neural networks have limitations because they do not fundamentally solve this problem. We analyze this existing dilemma from the perspective of information loss caused by data dimensionality reduction, and propose deploying generative models as a solution, for the first time.
