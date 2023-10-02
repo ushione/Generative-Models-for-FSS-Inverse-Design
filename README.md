@@ -5,6 +5,8 @@ PyTorch implementation of the paper "A Solution to the Dilemma for FSS Inverse D
 
 Our paper is under review by *IEEE Transactions on Antennas and Propagation*.
 
+Updates: Our paper has been accepted by *IEEE Transactions on Antennas and Propagation*. [2023/04/01]
+
 ## Table of Contents
 
 - [Background](#background)
